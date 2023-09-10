@@ -1,0 +1,1 @@
+data class Person(val id: String, val name: String, val weight: Double, val height: Double)
